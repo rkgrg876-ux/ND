@@ -1,7 +1,7 @@
 ﻿using System;
 public interface IEnemy
 {
-
+    // updated comment
     void Attack();
     void Defend();
 
